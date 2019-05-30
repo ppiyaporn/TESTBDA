@@ -9,4 +9,9 @@
       <initValue>'https://www.katalon.com/create-account/'</initValue>
       <name>url</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'WebUI.openBrowser(GlobalVariable.bdaURL)'</initValue>
+      <name>bdaURL</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
